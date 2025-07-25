@@ -1,6 +1,6 @@
 # 🛑 313 AlmuntaqimVirus: A Terrifying Malware Virus 🛑  
 
-![313 AlmuntaqimVirus Preview]()
+![313 AlmuntaqimVirus Preview](https://i.ibb.co/sdhR332j/image-2025-07-25-07-49-09.png)
 
 **⚠ WARNING:** This software is a *malicious virus* designed to wreak havoc on your system. **DO NOT RUN THIS CODE** unless you fully understand the consequences. This project is for **educational purposes only** to demonstrate how malware operates. The author is **NOT RESPONSIBLE** for any misuse of this software.
 
@@ -36,6 +36,7 @@ Using this software in malicious activities is illegal and unethical.
 ## 🧑‍💻 Credits  
 - **Author:** 313 Team
 - **Telegram:**
+   <br/>
    [Cyber ​​Islamic resistance](https://t.me/Mehwar99)   
    [313 Team](https://t.me/x313xTeamBackup)  
    [Github](https://github.com/313Team)   
