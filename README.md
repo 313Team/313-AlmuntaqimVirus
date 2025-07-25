@@ -1,6 +1,6 @@
 # 🛑 313 AlmuntaqimVirus: A Terrifying Malware Virus 🛑  
 
-![313 AlmuntaqimVirus Preview](https://i.ibb.co/sdhR332j/image-2025-07-25-07-49-09.png)
+![313 AlmuntaqimVirus Preview](https://i.imgur.com/pRl3M1B.png)
 
 **⚠ WARNING:** This software is a *malicious virus* designed to wreak havoc on your system. **DO NOT RUN THIS CODE** unless you fully understand the consequences. This project is for **educational purposes only** to demonstrate how malware operates. The author is **NOT RESPONSIBLE** for any misuse of this software.
 
